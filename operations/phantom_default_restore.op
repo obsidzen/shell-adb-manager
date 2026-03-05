@@ -1,0 +1,6 @@
+# operation=phantom_default_restore
+# version=2
+# format=kind|namespace|key|value_type|target
+device_config|global|sync_disabled_for_tests|string|none
+device_config|activity_manager|max_phantom_processes|delete|__DELETE__
+settings|global|settings_enable_monitor_phantom_procs|delete|__DELETE__

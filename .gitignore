@@ -1,0 +1,12 @@
+# Runtime state and transient data
+device_states/
+
+# Test temp artifacts
+tests/.tmp/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
